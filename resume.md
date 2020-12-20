@@ -1,7 +1,7 @@
 # Александр Корневский
 ## Profile 
-I am studying at National Technical University Kharkiv Polytechnic Institute
+I am studying at NecroSitet
 ## Skills
-So far I am learning C++ basics
+So far I am learning World of Warcraft basics
 ## Experience 
 None
